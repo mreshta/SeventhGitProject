@@ -8,6 +8,8 @@ public class SeventhTest5 {
 		System.out.println("This is the third class");
 		System.out.println("This is the third class");
 		System.out.println("This is the third class");
+		System.out.println("This is the third class");
+		System.out.println("This is the third class");
 
 	}
 
